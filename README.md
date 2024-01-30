@@ -1,7 +1,7 @@
 ### Hi there, I'm Devendra Giri
 
-## I'm a Python Developer and Data Analyst
-- 🔭 I’m currently working on a [Web Scraping Technology]!
+## I'm Data Analyst and Data Engineer
+- 🔭 I’m currently working on a [Data]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects and Learn WEB3.
