@@ -1,10 +1,10 @@
 ### Hi there, I'm Devendra Giri
 
 ## I'm Data Analyst and Data Engineer
-- 🔭 I’m currently working on a [Data]!
+- 🔭 I’m currently working on a [Data Analytics Team]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects and Learn WEB3.
+- 🥅 2024 Goals: Contribute more to Open Source projects and Learn Data Related Tech.
 - ⚡ Fun fact: Exercise is a love letter to your body.
 
 ### Connect with me:
@@ -26,10 +26,12 @@
 Data Science    ███░░░░░░░ 
 Python          ████████████████████░░░░░ 
 SQL             ███████████████░░░░░░░░░░ 
-Flask           ███████████░░░░░░░░░░░░░░
+Flask           ███░░░░░░░░░░░░░
 Rest Api        ████░░░░░░░░░░░░░░ 
-Azure DP-900 	████████░░░░░░░░░░
-Unix         	███████░░░░░░░
+Azure DP-900   	████████░░░░░░░░░░
+Unix           	███████░░░░░░░
+Apache Spark    ███████████████░░░░░░░░░░
+ETL             ███████████████░░░░░░░░░░ 
 ```
 <!--END_SECTION:waka-->
 <br />
@@ -51,5 +53,5 @@ Unix         	███████░░░░░░░
 
 [twitter]: https://twitter.com/devendraP11685274
 [youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/devendragiri0/
-[linkedin]:https://www.linkedin.com/in/devendra-giri-a345321a1/
+[instagram]: https://www.instagram.com/devendrag07/
+[linkedin]:https://www.linkedin.com/in/devendrag07/
